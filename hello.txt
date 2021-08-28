@@ -1,5 +1,5 @@
 helo word     12345678
-hello git	w233333333:
+hello git	w
 hello git
 hello git
 hello git
